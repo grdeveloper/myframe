@@ -12,3 +12,5 @@ To run webpack server ` npm run start `.
 
 
 And to build the project ` npm run build `.
+
+Entering live server mode your project will be available on port "localhost:4200".
