@@ -6,3 +6,7 @@ It also gives you an overview how you can write not only your framework but also
 
 All you need is ` npm install` to install packages.
 After reading the files surely you will start coding in Angular much easier.
+
+
+To run webpack server ` npm run start `.
+And to build the project ` npm run build `.
